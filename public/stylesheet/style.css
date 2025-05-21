@@ -1,0 +1,27 @@
+.logo{
+    height: 50px;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.navbar{
+    --bs-navbar-padding-y: 0rem;
+    background-color:#e3f2fd;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: rgb(0, 0, 0);
+}
+
+.star{
+    color: rgb(254, 225, 38);
+}
+
+li{
+    list-style-type: none;
+}
+
+.login{
+    height: 700px;
+}
+
